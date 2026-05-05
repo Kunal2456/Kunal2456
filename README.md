@@ -98,8 +98,8 @@ kunal = {
 
 ### ShelfIQ - Smart Inventory Intelligence Platform
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-Business--KPI--Automation--System-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunal2456/Business-KPI-Automation-System)
-[![Stars](https://img.shields.io/github/stars/Kunal2456/Business-KPI-Automation-System?style=for-the-badge&color=f59e0b&logo=github)](https://github.com/Kunal2456/Business-KPI-Automation-System)
+[![View Repo](https://img.shields.io/badge/View%20Repo-Business--KPI--Automation--System-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunal2456/Business-KPI-Automation-System)
+[![Stars](https://img.shields.io/github/stars/Kunal2456/Business-KPI-Automation-System?style=for-the-badge&color=f59e0b&logo=github&logoColor=white)](https://github.com/Kunal2456/Business-KPI-Automation-System)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Kunal2456/Business-KPI-Automation-System)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/Kunal2456/Business-KPI-Automation-System)
 
@@ -113,17 +113,12 @@ kunal = {
 
 ---
 
-## GitHub Stats
+## Profile Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kunal2456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&include_all_commits=true&count_private=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&langs_count=8" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Kunal2456&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1" />
+![Repos](https://img.shields.io/badge/Public%20Repos-2-6366f1?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Kunal2456&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -137,19 +132,11 @@ kunal = {
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kunal2456&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion."* - W. Edwards Deming
+*"Without data, you are just another person with an opinion."* - W. Edwards Deming
 
 If you like my work, consider starring my repos!
 
