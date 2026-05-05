@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=750&lines=Data+Science+%26+Analytics+Enthusiast+📊;Business+Intelligence+%2B+Full+Stack+Developer+🚀;Python+%7C+OpenCV+%7C+Excel+%7C+Google+Sheets+💹;Turning+raw+data+into+smart+decisions+🧠;Building+ShelfIQ+—+Smart+Inventory+Platform+🏪" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=750&lines=Data+Science+%26+Analytics+Enthusiast+%F0%9F%93%8A;Business+Intelligence+%2B+Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+OpenCV+%7C+Excel+%7C+Google+Sheets+%F0%9F%92%B9;Turning+raw+data+into+smart+decisions+%F0%9F%A7%A0;Building+ShelfIQ+Smart+Inventory+Platform+%F0%9F%8F%AA" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -98,7 +98,7 @@ kunal = {
 
 <div align="center">
 
-[![ShelfIQ](https://github-readme-stats.vercel.app/api/pin/?username=Kunal2456&repo=Business-KPI-Automation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff)](https://github.com/Kunal2456/Business-KPI-Automation-System)
+[![ShelfIQ](https://github-readme-stats.vercel.app/api/pin/?username=Kunal2456&repo=Business-KPI-Automation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&cache_seconds=1800)](https://github.com/Kunal2456/Business-KPI-Automation-System)
 
 </div>
 
@@ -115,12 +115,12 @@ kunal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kunal2456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&count_private=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kunal2456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&langs_count=8&cache_seconds=1800" height="170" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kunal2456&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Kunal2456&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1" alt="GitHub Streak"/>
 
 <br/>
 
