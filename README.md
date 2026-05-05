@@ -96,11 +96,15 @@ kunal = {
 
 <div align="center">
 
-[![ShelfIQ](https://github-readme-stats.vercel.app/api/pin/?username=Kunal2456&repo=Business-KPI-Automation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff)](https://github.com/Kunal2456/Business-KPI-Automation-System)
+### ShelfIQ - Smart Inventory Intelligence Platform
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-Business--KPI--Automation--System-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunal2456/Business-KPI-Automation-System)
+[![Stars](https://img.shields.io/github/stars/Kunal2456/Business-KPI-Automation-System?style=for-the-badge&color=f59e0b&logo=github)](https://github.com/Kunal2456/Business-KPI-Automation-System)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Kunal2456/Business-KPI-Automation-System)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/Kunal2456/Business-KPI-Automation-System)
 
 </div>
 
-**ShelfIQ** - Smart Inventory Intelligence Platform for retail store owners:
 - Real-time KPI dashboard with interactive charts and analytics
 - Inventory management with Excel/CSV import-export
 - GST Invoice system with GSTIN auto-fetch
@@ -120,10 +124,6 @@ kunal = {
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Kunal2456&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal2456&bg_color=0D1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true" width="100%"/>
 
 </div>
 
