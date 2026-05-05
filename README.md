@@ -1,9 +1,9 @@
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Kunal!%20👋&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20React%20Enthusiast&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Kunal!%20👋&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analytics%20%7C%20Full%20Stack%20Developer%20%7C%20Business%20Intelligence&descAlignY=62&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=700&lines=Building+production-ready+SaaS+apps+%F0%9F%9A%80;React+%2B+TypeScript+%2B+Supabase+developer;Turning+ideas+into+real+products+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=750&lines=Data+Science+%26+Analytics+Enthusiast+📊;Business+Intelligence+%2B+Full+Stack+Developer+🚀;Python+%7C+OpenCV+%7C+Excel+%7C+Google+Sheets+💹;Turning+raw+data+into+smart+decisions+🧠;Building+ShelfIQ+—+Smart+Inventory+Platform+🏪" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -12,20 +12,44 @@
 
 ## 🙋‍♂️ About Me
 
-```typescript
-const kunal = {
-  role:        "Full Stack Developer",
-  location:    "India 🇮🇳",
-  currentWork: "ShelfIQ — Smart Inventory Intelligence Platform",
-  learning:    ["System Design", "Cloud Architecture", "AI Integration"],
-  passions:    ["SaaS Products", "Clean UI/UX", "Open Source"],
-  funFact:     "I turn chai ☕ into code 🔥"
-};
+```python
+kunal = {
+    "role"        : ["Data Analytics Enthusiast", "Full Stack Developer"],
+    "location"    : "India 🇮🇳",
+    "interests"   : ["Data Science", "Business Intelligence", "SaaS Products"],
+    "current_work": "ShelfIQ — Smart Inventory Intelligence Platform",
+    "tools"       : ["Python", "OpenCV", "Excel", "Google Sheets", "React", "Supabase"],
+    "learning"    : ["Machine Learning", "Data Visualization", "Cloud Architecture"],
+    "fun_fact"    : "I turn raw data 📊 + chai ☕ into smart decisions 🔥"
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Data & Analytics Skills
+
+<div align="center">
+
+**Data Science & Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Reporting & Dashboarding**
+
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Full Stack & Dev Skills
 
 <div align="center">
 
@@ -54,6 +78,21 @@ const kunal = {
 
 ---
 
+## 💡 What I Do
+
+<div align="center">
+
+| 📊 Data Analytics | 💻 Full Stack Dev | 📈 Business Intelligence |
+|:-----------------:|:-----------------:|:------------------------:|
+| Python & OpenCV | React + TypeScript | KPI Dashboards |
+| Data Cleaning & EDA | Supabase Backend | Excel & Google Sheets |
+| Visual Reports | REST APIs | GST & Financial Reports |
+| Pattern Recognition | SaaS Architecture | Inventory Analytics |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -62,12 +101,12 @@ const kunal = {
 
 </div>
 
-**ShelfIQ** — A production-ready SaaS platform for store owners featuring:
-- 📊 Real-time KPI dashboard with interactive charts
+**ShelfIQ** — Smart Inventory Intelligence Platform for retail store owners:
+- 📊 Real-time KPI dashboard with interactive charts & analytics
 - 📦 Inventory management with Excel/CSV import-export
 - 🧾 GST Invoice system with GSTIN auto-fetch
 - 🌍 Multi-language support (English, Italian, Hindi)
-- 💳 4-tier subscription system with 14-day free trial
+- 💳 4-tier subscription SaaS with 14-day free trial
 
 ---
 
@@ -115,7 +154,7 @@ const kunal = {
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 ⭐ **If you like my work, consider starring my repos!** ⭐
 
